@@ -59,7 +59,7 @@ criar o arquivo na base do servidor
 criar o arquivo index na raiz do projeto para subir o servidor usando as rotas
 ![image](https://github.com/user-attachments/assets/af7bee3b-9454-4eef-b097-1d140323cac0)
 
-10
+10 <br>
 ![image](https://github.com/user-attachments/assets/fca00ab0-5335-4291-85d7-80904cb887d2)
 ![image](https://github.com/user-attachments/assets/c0565d57-fbbc-4ce5-a2d3-5f81296c97b6)
 ![image](https://github.com/user-attachments/assets/a67c5aff-a7ef-40fe-95a3-341108c032cd)
