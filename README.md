@@ -68,6 +68,7 @@ criar o arquivo index na raiz do projeto para subir o servidor usando as rotas
 
 ![image](https://github.com/user-attachments/assets/6e2f6720-3c54-4387-96d4-ba905e2b302b) <br>
 ![image](https://github.com/user-attachments/assets/260ff701-f7c9-4693-80b7-9aa4452d9f85) <br>
+![image](https://github.com/user-attachments/assets/e7707a66-f005-4928-ad24-ef80319af9c9) <br>
 No contexto de funções de hashing, um salt é uma sequência de caracteres ou um número que é <br>
 combinada com a entrada original (neste caso, a string s) antes de aplicar o algoritmo de hash.  <br>
 Isso ajuda a prevenir ataques, especialmente contra ataques de força bruta e ataques de tabela arco-íris <br>
