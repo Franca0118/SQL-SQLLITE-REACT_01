@@ -10,7 +10,7 @@ CMD -> npm init -y
 
 2
 CMD -> dependencias
-npm i ; npm i sequelize ; npm i express ; npm i cors 
+npm i ; npm i sequelize ; npm i express ; npm i cors <br>
 ![image](https://github.com/user-attachments/assets/eb81bdc6-56cc-410d-882c-53884a8ab963)
 ![image](https://github.com/user-attachments/assets/cfaa08fc-0e84-4c02-ac87-80b1b6b6abbf)
 ![image](https://github.com/user-attachments/assets/151091b8-ff56-47c9-abe5-f36e9216af88)
@@ -20,24 +20,24 @@ npm i ; npm i sequelize ; npm i express ; npm i cors
 
 3 <br>
 CMD -> criar pastas
-mkdir config ; mkdir middlewares ; mkdir models ; mkdir routes
+mkdir config ; mkdir middlewares ; mkdir models ; mkdir routes <br>
 ![image](https://github.com/user-attachments/assets/0089793d-a4c2-45b3-b83c-108df8d7117b)
 
 4 <br>
-pasta config -> Criar arquivo config.js / .ts
+pasta config -> Criar arquivo config.js / .ts <br>
 ![image](https://github.com/user-attachments/assets/4a27c0c1-30be-43af-b7a6-7a957b2dde2e)
 ![image](https://github.com/user-attachments/assets/26a62172-687d-4d51-8aa7-4af618285771)
 
 
 5 <br>
-![image](https://github.com/user-attachments/assets/f06b25bf-cea6-4e39-9641-d7607100f19e)
+![image](https://github.com/user-attachments/assets/f06b25bf-cea6-4e39-9641-d7607100f19e) <br>
 para ver a criação do banco de dados
-![image](https://github.com/user-attachments/assets/e5424e97-d699-4565-8abb-eea6cbdce92c)
+![image](https://github.com/user-attachments/assets/e5424e97-d699-4565-8abb-eea6cbdce92c) <br>
 com o sqlite instalado no vscode para ver o banco de dados
-![image](https://github.com/user-attachments/assets/a388fc20-3b77-46ac-8dc9-fc3d51bcfeed)
+![image](https://github.com/user-attachments/assets/a388fc20-3b77-46ac-8dc9-fc3d51bcfeed) <br>
 
 6
-na pasta models criar os modelos do banco
+na pasta models criar os modelos do banco <br>
 ![image](https://github.com/user-attachments/assets/cbba18ce-6dc9-48b9-ad80-68e9decb2ddf)
 ![image](https://github.com/user-attachments/assets/faed47b3-4b86-4f3c-b946-2fee2056a2a9)
 
@@ -56,7 +56,7 @@ criar o arquivo na base do servidor
 
 
 9 <br>
-criar o arquivo index na raiz do projeto para subir o servidor usando as rotas
+criar o arquivo index na raiz do projeto para subir o servidor usando as rotas <br>
 ![image](https://github.com/user-attachments/assets/af7bee3b-9454-4eef-b097-1d140323cac0)
 
 10 <br>
