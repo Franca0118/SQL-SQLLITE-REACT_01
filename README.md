@@ -29,7 +29,7 @@ pasta config -> Criar arquivo config.js / .ts
 ![image](https://github.com/user-attachments/assets/26a62172-687d-4d51-8aa7-4af618285771)
 
 
-5 <br>
+5 <br> npm i ; npm i react-router-dom ; npm i axios <br>
 ![image](https://github.com/user-attachments/assets/f06b25bf-cea6-4e39-9641-d7607100f19e)
 para ver a criação do banco de dados
 ![image](https://github.com/user-attachments/assets/e5424e97-d699-4565-8abb-eea6cbdce92c)
